@@ -1,1 +1,8 @@
 Hello People
+
+
+
+
+git add .
+git commit -m "messgae"
+git push (at last to publish the changes)
